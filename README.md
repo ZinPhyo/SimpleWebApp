@@ -32,7 +32,7 @@ CREATE TABLE Products (
 ### 📥 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourname/SimpleWebApp.git
+git clone https://github.com/ZinPhyo/SimpleWebApp.git
 cd SimpleWebApp
 ```
 
